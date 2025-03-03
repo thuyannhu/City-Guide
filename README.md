@@ -47,7 +47,7 @@ J'ai travaillé principalement sur les points d'intérêts (aussi bien côté ba
 
 ## Annexe
 
-Présentation du projet : [slides](https://docs.google.com/presentation/d/1j46KnrQMcTacmmDQpxgJmbwZPO5RlVEFszv9hwA0kNI/edit#slide=id.g22382ad7a37_0_221)
+Présentation du projet : [slides](https://docs.google.com/presentation/d/1IDQsRcIgu96kwAlv5tZCOp20Eyn8IEgv-9z1FNHtb-c/edit#slide=id.p)
 
 Démonstration vidéo : [vidéo](https://drive.google.com/file/d/1BVaz3BpZh7WMqiSE-MdjnGpDTkX7vSSh/view?resourcekey)
 
